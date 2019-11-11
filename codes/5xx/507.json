@@ -1,0 +1,5 @@
+{
+    "code": "507",
+    "desc": "存储不足(Insufficient Storage)",
+    "detail": "服务器无法存储完成请求所必须的内容。这个状况被认为是临时的。WebDAV (RFC 4918)"
+}

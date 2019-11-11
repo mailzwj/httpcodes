@@ -1,0 +1,5 @@
+{
+    "code": "424",
+    "desc": "依赖请求失败(Failed Dependency)",
+    "detail": "由于之前的某个请求发生的错误，导致当前请求失败，例如 PROPPATCH。（RFC 4918 WebDAV）"
+}

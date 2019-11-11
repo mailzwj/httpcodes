@@ -27,6 +27,10 @@ const codeMap = {
   '5': {
     title: '服务器错误',
     path: '5xx'
+  },
+  '6': {
+    title: '服务器错误',
+    path: '6xx'
   }
 };
 const { log } = console;

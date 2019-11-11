@@ -1,0 +1,5 @@
+{
+    "code": "411",
+    "desc": "必须添加长度(Length Required)",
+    "detail": "服务器拒绝在没有定义 Content-Length 头的情况下接受请求。在添加了表明请求消息体长度的有效 Content-Length 头之后，客户端可以再次提交该请求。"
+}

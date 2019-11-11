@@ -1,0 +1,5 @@
+{
+    "code": "402",
+    "desc": "Payment Required",
+    "detail": "该状态码是为了将来可能的需求而预留的。"
+}

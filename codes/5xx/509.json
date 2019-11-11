@@ -1,0 +1,5 @@
+{
+    "code": "509",
+    "desc": "服务器达到带宽限制(Bandwidth Limit Exceeded)",
+    "detail": "服务器达到带宽限制。这不是一个官方的状态码，但是仍被广泛使用。"
+}

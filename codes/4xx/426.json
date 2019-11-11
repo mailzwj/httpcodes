@@ -1,0 +1,5 @@
+{
+    "code": "426",
+    "desc": "强制升级(Upgrade Required)",
+    "detail": "客户端应当切换到TLS/1.0。（RFC 2817）"
+}

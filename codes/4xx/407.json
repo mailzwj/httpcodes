@@ -1,0 +1,5 @@
+{
+    "code": "407",
+    "desc": "代理必须认证(Proxy Authentication Required)",
+    "detail": "与401响应类似，只不过客户端必须在代理服务器上进行身份验证。代理服务器必须返回一个 Proxy-Authenticate 用以进行身份询问。客户端可以返回一个 Proxy-Authorization 信息头用以验证。参见RFC 2617。"
+}

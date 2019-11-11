@@ -1,0 +1,5 @@
+{
+    "code": "600",
+    "desc": "没有响应头部(Unparseable Response Headers)",
+    "detail": "源站没有返回响应头部，只返回实体内容。"
+}

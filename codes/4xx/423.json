@@ -1,0 +1,5 @@
+{
+    "code": "423",
+    "desc": "资源被锁定(Locked)",
+    "detail": "当前资源被锁定。（RFC 4918 WebDAV）"
+}

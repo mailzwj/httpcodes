@@ -1,0 +1,5 @@
+{
+    "code": "102",
+    "desc": "继续执行(Processing)",
+    "detail": "由WebDAV（RFC 2518）扩展的状态码，代表处理将被继续执行。"
+}

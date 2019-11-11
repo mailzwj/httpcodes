@@ -1,5 +1,5 @@
 {
-  "name": "httpcodes",
+  "name": "@mailzwj/hc",
   "version": "1.0.0",
   "description": "HTTP状态码含义查询",
   "main": "index.js",

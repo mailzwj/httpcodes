@@ -3,7 +3,7 @@ HTTP状态码含义查询
 
 # Install
 ```bash
-npm install -g httpcodes
+npm install -g @mailzwj/hc
 ```
 
 # Usage

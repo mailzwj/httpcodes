@@ -31,8 +31,9 @@ const codeMap = {
 };
 const { log } = console;
 
+yargs.version(`命令行工具【hc】: v${pkg.version}`);
+
 yargs
-  .version(`命令行工具【hc】: v${pkg.version}`)
   .usage('用法：hc show <code>')
   .command({
     command: 'show <code>',
@@ -62,8 +63,6 @@ yargs
       }
     }
   })
-  .example('hc show 200')
-  .help()
-  .argv;
+  .example('hc show 200');
 
 yargs.parse();

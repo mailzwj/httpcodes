@@ -4,6 +4,7 @@
   "description": "HTTP状态码含义查询",
   "main": "index.js",
   "author": "Mr.Zheng <mailzwj@126.com> (http://seejs.me)",
+  "keywords": ["http", "status", "codes"],
   "bin": {
     "hc": "./index.js"
   },

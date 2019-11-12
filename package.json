@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "HTTP状态码含义查询",
   "main": "index.js",
+  "author": "Mr.Zheng <mailzwj@126.com> (http://seejs.me)",
   "bin": {
     "hc": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mailzwj@126.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mailzwj/httpcodes.git"
+  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0",

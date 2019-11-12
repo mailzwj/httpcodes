@@ -1,6 +1,6 @@
 {
   "name": "@mailzwj/hc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTTP状态码含义查询",
   "main": "index.js",
   "author": "Mr.Zheng <mailzwj@126.com> (http://seejs.me)",

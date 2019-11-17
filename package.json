@@ -1,10 +1,14 @@
 {
   "name": "@mailzwj/hc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "HTTP状态码含义查询",
   "main": "index.js",
   "author": "Mr.Zheng <mailzwj@126.com> (http://seejs.me)",
-  "keywords": ["http", "status", "codes"],
+  "keywords": [
+    "http",
+    "status",
+    "codes"
+  ],
   "bin": {
     "hc": "./index.js"
   },

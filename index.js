@@ -53,7 +53,7 @@ yargs
         if (!codeObj) {
           log(chalk.keyword('orange')('Warning: 你输入的状态码不存在'));
         } else {
-          const path = `./codes/${codeObj.path}/${code}.json`;
+          const path = `${__dirname}/codes/${codeObj.path}/${code}.json`;
           if (fs.existsSync(path)) {
             const jsonString = fs.readFileSync(path).toString('utf-8');
             const json = JSON.parse(jsonString || '{}');
